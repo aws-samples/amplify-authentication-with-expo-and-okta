@@ -1,0 +1,12 @@
+{
+  "Auth": {
+    "region": "us-west-2",
+    "identityPoolId": "us-west-2:XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
+  },
+  "Storage": {
+    "AWSS3": {
+      "region": "us-west-2",
+      "bucket": "my-bucket-name"
+    }
+  }
+}

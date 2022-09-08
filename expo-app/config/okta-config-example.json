@@ -1,0 +1,5 @@
+{
+    "okta_issuer_url": "https://dev-xxxxxxxx.okta.com/oauth2/default",
+    "okta_client_id": "xxyxxyxxxyxxyxxyxxyx",
+    "okta_callback_url": "com.okta.dev-xxxxxxxx:/callback"
+}

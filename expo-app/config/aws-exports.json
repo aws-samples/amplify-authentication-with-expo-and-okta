@@ -1,0 +1,12 @@
+{
+  "Auth": {
+    "region": "",
+    "identityPoolId": ""
+  },
+  "Storage": {
+    "AWSS3": {
+      "region": "",
+      "bucket": ""
+    }
+  }
+}

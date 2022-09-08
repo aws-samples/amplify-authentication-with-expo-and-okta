@@ -19,13 +19,13 @@
     "aws-sdk": "^2.1067.0",
     "axios": "^0.25.0",
     "bufferutil": "^4.0.6",
-    "expo": "~44.0.0",
+    "expo": "^46.0.10",
     "expo-auth-session": "~3.5.0",
     "expo-random": "^12.1.1",
     "expo-status-bar": "~1.2.0",
-    "expo-updates": "^0.11.6",
+    "expo-updates": "^0.14.5",
     "react": "17.0.1",
-    "react-native": "0.64.3",
+    "react-native": "^0.70.0",
     "utf-8-validate": "^5.0.9"
   },
   "devDependencies": {

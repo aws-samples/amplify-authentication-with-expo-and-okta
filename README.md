@@ -1,7 +1,21 @@
 # Amplify Okta Expo Demo
 
-A demo of the application and an architecture overview can be found at TODO: post blog release add link here
+This solution demonstrates how a user can integrate the Amplify frontend library, Cognito and Okta into a React Native built using the Expo framework to achieve the following:
+-	Authenticate users through an external OIDC Identity Provider – in this case Okta
+-	Empower the mobile application to make calls through Amplify to an API or the AWS SDK
+-	Allow fine grained access to individual resources
 
+To demonstrate the desired functionality, we will modify a blank React Native project to login to your Okta application and make an AWS SDK call from the app to list the items inside an S3 bucket. 
+
+Here is a visual representation of the architecture we just discussed, for a further deep dive into this diagram, please check out the blog that accompanies this sample.
+![Architecture](assets/00-rn-blog-diag.png)
+
+Here is what the final application will look like:
+
+![Final product](assets/final_product.gif)
+
+Here is a diagram to show you the nature of the calls that will be happening:
+![Flow](assets/01-flow.png)
 # Contact the Author
 If you get stuck or find something has become broken please submit an issue with a detailed description and we will get back to you when possible
 
